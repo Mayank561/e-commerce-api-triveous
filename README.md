@@ -200,4 +200,3 @@ Continue with the same pattern for Orders Routes...
 
 ## Documentation
 - **Postman:** https://documenter.getpostman.com/view/27727111/2s9YsNdptR
-- **Swagger:** Documentation:https://localhost:8000/api/v1/api-docs/
