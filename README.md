@@ -20,3 +20,19 @@ This API serves as the backend for an e-commerce platform. It provides various e
   Example:
   ```http
   GET /api/v1/categories
+
+
+- **GET /api/v1/categories/:id: Get a category by ID.
+- Example:
+- GET /api/v1/categories/1
+  
+- **POST /api/v1/categories: Create a new category.
+- Example:
+
+- POST /api/v1/categories
+Content-Type: application/json
+
+{
+  "name": "Electronics",
+  "description": "Category for electronic products"
+}
